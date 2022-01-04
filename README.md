@@ -1,5 +1,5 @@
 # JC_Learn_Detectron2
-Tuturials for detectron2 Facebook image detection model
+Tutorials for detectron2 Facebook image detection model
 
 # Detectron2 
 
@@ -8,7 +8,7 @@ Tuturials for detectron2 Facebook image detection model
 # Data set
 [TACO Trash dataset](http://tacodataset.org/) 
 
-# Tuturials 
-[] Basics (Set up dataset, model run, basics evalutaion & prediction )
-[] Prediction output, making sence of the instrnace 
-[] image argmentation & getting better results 
+# Tutorials
+* [中] Basics (Set up dataset, model run, basics evalutaion & prediction )
+* [] Prediction output, making sence of the instrnace 
+* [] image argmentation & getting better results 
