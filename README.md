@@ -3,7 +3,7 @@ Tuturials for detectron2 Facebook image detection model
 
 # Detectron2 
 
-(https://github.com/facebookresearch/detectron2)[facebookresearch/detectron2]
+[https://github.com/facebookresearch/detectron2](facebookresearch/detectron2)
 
 # Data set
 * ()[TACO Trash dataset] 
