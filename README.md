@@ -9,6 +9,6 @@ Tutorials for detectron2 Facebook image detection model
 [TACO Trash dataset](http://tacodataset.org/) 
 
 # Tutorials
-* [中] Basics (Set up dataset, model run, basics evalutaion & prediction )
+* [中] Basics (Set up dataset, model run, basics evalutaion & prediction )　→  [Detectron2_TACO.ipynb](https://github.com/JarvisSan22/JC_Learn_Detectron2/blob/main/Detectron2_TACO.ipynb) → Article (english(作成中) , [日本語]() )
 * [] Prediction output, making sence of the instrnace 
 * [] image argmentation & getting better results 
