@@ -1,0 +1,10 @@
+torch==1.5 
+torchvision==0.6
+detectron2==0.1.3
+numpy
+tqdm
+opencv-python
+pandas 
+matplotlib 
+colorsys
+ipywidgets
